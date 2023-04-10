@@ -1,100 +1,58 @@
-# 03 JavaScript: Password Generator
+# Passwords-For-You
+Sick of making your own zanny passwords to keep all of your sensitive information safe?
+This is a random password generator for you!
 
-## Your Task
+## Description
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+Exactly as stated, this tool is meant to assist users create unique passwords with ease. Users can have one less thing on their plate.
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+- For me personally, this projected further helped me understand coding with javascript and using a slew of resources available on the internet to help me understand the steps I needed to take.
+- For others, it'll save time thinking of intricate passwords, so kick back and relax. I know I hated having to think of a new password every other month so I hope others would enjoy this.
+- The ultimate motivation is the end user. As cheesy as it sounds, the purpose of this code IS for you as much as it is for me to learn. We both get something out of  it.
+- So far, for loops are my favorite and learning about the various way code can achieve one thing.
 
-## User Story
+## Use
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+Follow the link to the generator! Here's an example I made of a password. Simply answer the prompts for your VERY OWN unique password 😎 
 
-## Acceptance Criteria
+- https://mrobles-dev.github.io/Passwords-For-you/
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
+![alt tex](./Assets/Password-Generator_1.jpg)
 
-## Mock-Up
+## Acknowledgement
 
-The following image shows the web application's appearance and functionality:
+A few links that could help you figure out your own generator as well as the reasons JS makes the code generator possible.
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-## Grading Requirements
+- https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
+- https://www.geeksforgeeks.org/how-to-generate-random-number-in-given-range-using-javascript/?ref=lbp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment
+- https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
 
-### Technical Acceptance Criteria: 40%
+Thank you all.
 
-* Satisfies all of the preceding acceptance criteria.
 
-### Deployment: 32%
+## License 
+MIT License
 
-* Application deployed at live URL.
+Copyright (c) 2023 Milton Robles
 
-* Application loads with no errors.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-* Application GitHub URL submitted.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
