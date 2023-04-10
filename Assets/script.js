@@ -26,7 +26,7 @@ if(length >= 8 && length <=128) {
   var numbers =confirm("Would you like to include numbers?");
   var specialCharacters =confirm("Would you like to include special characters?");
   
-  //according to comments DONT forget to make sure these are selected
+  //DONT forget to make sure these are selected. This line of code makes the selection possible so long as they are true
   
   if (lowerCase || upperCase || numbers || specialCharacters)
   

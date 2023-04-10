@@ -1,15 +1,15 @@
 # Passwords-For-You
 Sick of making your own zanny passwords to keep all of your sensitive information safe?
-This is a random password generator for you!
+This is a random password generator is for you!
 
 ## Description
 
 Exactly as stated, this tool is meant to assist users create unique passwords with ease. Users can have one less thing on their plate.
 
-- For me personally, this projected further helped me understand coding with javascript and using a slew of resources available on the internet to help me understand the steps I needed to take.
+- For me personally, this projected further helped me understand coding with javascript and using a slew of resources available on the internet to help me understand the steps I needed to take to make this work. I struggled a bit but am so thankful for the web development community.
 - For others, it'll save time thinking of intricate passwords, so kick back and relax. I know I hated having to think of a new password every other month so I hope others would enjoy this.
 - The ultimate motivation is the end user. As cheesy as it sounds, the purpose of this code IS for you as much as it is for me to learn. We both get something out of  it.
-- So far, for loops are my favorite and learning about the various way code can achieve one thing.
+- So far, for loops are my favorite and learning about the various ways code can achieve one thing.
 
 ## Use
 
@@ -25,6 +25,7 @@ A few links that could help you figure out your own generator as well as the rea
 
 
 - https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript/
+- https://stackoverflow.com/questions/63822962/i-am-making-a-password-generator-using-javascript-the-password-does-not-display
 - https://www.geeksforgeeks.org/how-to-generate-random-number-in-given-range-using-javascript/?ref=lbp
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment
 - https://dev.to/code_mystery/random-password-generator-using-javascript-6a
