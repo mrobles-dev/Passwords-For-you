@@ -29,7 +29,7 @@ A few links that could help you figure out your own generator as well as the rea
 - https://www.geeksforgeeks.org/how-to-generate-random-number-in-given-range-using-javascript/?ref=lbp
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment
 - https://dev.to/code_mystery/random-password-generator-using-javascript-6a
-
+- OpenAI ChatGPT for help debugging 
 
 
 Thank you all.

@@ -28,6 +28,7 @@ if(length >= 8 && length <=128) {
   
   //DONT forget to make sure these are selected. This line of code makes the selection possible so long as they are true
   
+  // thanks chatGPT for Clarification
   if (lowerCase || upperCase || numbers || specialCharacters)
   
   {
